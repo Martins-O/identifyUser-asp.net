@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jojol\\source\\repos\\IdentityUserCustom\\wwwroot\\uploads\\GAuzAuWWEAAxPLi.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\GAuzAuWWEAAxPLi.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdentityUserCustom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IdentityUserCustom.props",
+      "PackagePath": "build\\IdentityUserCustom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IdentityUserCustom.props",
+      "PackagePath": "buildMultiTargeting\\IdentityUserCustom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IdentityUserCustom.props",
+      "PackagePath": "buildTransitive\\IdentityUserCustom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

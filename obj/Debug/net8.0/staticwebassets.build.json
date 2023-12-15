@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tJ47W+dKEAdvjPTwNapSWyUTE2A1R79GYWUdPe9fNbk=",
+  "Source": "IdentityUserCustom",
+  "BasePath": "_content/IdentityUserCustom",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IdentityUserCustom\\wwwroot",
+      "Source": "IdentityUserCustom",
+      "ContentRoot": "C:\\Users\\jojol\\source\\repos\\IdentityUserCustom\\wwwroot\\",
+      "BasePath": "_content/IdentityUserCustom",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jojol\\source\\repos\\IdentityUserCustom\\wwwroot\\uploads\\GAuzAuWWEAAxPLi.jpeg",
+      "SourceId": "IdentityUserCustom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jojol\\source\\repos\\IdentityUserCustom\\wwwroot\\",
+      "BasePath": "_content/IdentityUserCustom",
+      "RelativePath": "uploads/GAuzAuWWEAAxPLi.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\GAuzAuWWEAAxPLi.jpeg"
+    }
+  ]
+}
